@@ -8,7 +8,14 @@ def git_call():
 def git_del():
     pass
 
+def git_init():
+    print("git.init")
+
+def git_close():
+    print("git close")
 
 print(git_opeation())
 git_call()
 git_del()
+git.init()
+git.close()
