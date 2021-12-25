@@ -20,6 +20,7 @@ def git_close():
 print(git_opeation())
 git_call()
 git_del()
-git.init()
-git.close()
+git_init()
+git_close()
+
 print("all functions ran")
