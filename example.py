@@ -1,3 +1,6 @@
+# This is modified file
+import os
+
 def git_opeation():
     return "First function created in the local."
 
@@ -19,4 +22,5 @@ git_call()
 git_del()
 git_init()
 git_close()
+
 print("all functions ran")
