@@ -3,7 +3,7 @@ def git_opeation():
 
 def git_call():
     print("Hello")
-    return "new function added in the web".
+    print("new function added in the web")
 
 
 print(git_opeation())
