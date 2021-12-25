@@ -24,3 +24,4 @@ git_init()
 git_close()
 
 print("all functions ran")
+print("good bye")
