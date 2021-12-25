@@ -1,5 +1,5 @@
 def git_opeation():
-    return "I am adding example.py file to the remote repository."
+    return "First function created in the local."
 
 def git_call():
     return "new function added in the web".
